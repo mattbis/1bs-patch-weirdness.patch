@@ -7,4 +7,4 @@
 no license.
 
 ## goal
-1. make it just about work as best we can.
+1. make it just about work as best we can; better than now... which is sometimes it goes wrong ( however it coudl ve something else... )
