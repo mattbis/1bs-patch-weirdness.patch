@@ -7,7 +7,7 @@
 - commuc/native equations might happen somewhere to cause the bug
 1. its most likely on restore state with above
 ### going to be quite the story since I dont really know cpp to this level yet..
-1. i notice the code is dirty as hell though since I think i can make it stable.. 
+1. the host can confuse you and this means its tricky to realise what it needs to fix it; ( for example dealloc somewhere ) or return state ()
 2. omg host editor is too annoting: Editing xml. Considering paying for the lion is mayve gonna happen
 ### if it works to stop load corruption or i figure out some other reason that is it .. just one line if necessary
 1. will you host a binary release: no... ( its not my project. I am only patching it )
