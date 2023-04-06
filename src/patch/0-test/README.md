@@ -8,7 +8,7 @@ due to the author being truly legendary I am only looking at why one specific pl
 therefore its just a patch when I get this to build since I don't seem to be able to get 2017 now...
 just effects drums.. and ive no idea if this will work.
 
-- the code is raw so its a bit tricky for me to get workign since I only just tried it the first time. I think we need to fix the headers, and try to make a new project file. How can you project management be this bad? Or im sure I need professional. All I think is why doesnt it feedback properly what is happening.. and say hay pay for this, or edit this.. yourself.. dealio
+- the code is raw so its a bit tricky for me to get workign since I only just tried it the first time. I think we need to fix the headers, and try to make a new project file. How can you vendor ide project management be this bad? Or im sure I need professional. All I think is why doesnt it feedback properly what is happening.. and say hay pay for this, or edit this.. yourself.. dealio
 
 ### UPDATES - POSSIBLE
 1. update to sdk 3 since I dont seem to get 2017 anymore annoying!
