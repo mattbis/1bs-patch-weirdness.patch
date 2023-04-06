@@ -2,3 +2,7 @@
   a. project: `code`
 2. location of harcode targets. xml change.
 3. project scoping. is infuriating in vs. omg. 
+
+## investigation
+- see graveyard if my first attempts fail. 
+- 1. i really think its likely its old and sdk upgrade... 
