@@ -1,10 +1,10 @@
 # 1bs-patch-weirdness.patch
 .. investigation
 
-1. this code is old I am realising so I need to make just the 64bit version work with whatever hacks he used... in last vst2.
+1. fix for only 64bit test.
 
 ### LICENSE
 no license.
 
 ## goal
-1. make it just about work as best we can; better than now... which is sometimes it goes wrong ( however it coudl ve something else... )
+1. make it work in my daw with my madness; or fix it as I describe and make tests.. if necessary
