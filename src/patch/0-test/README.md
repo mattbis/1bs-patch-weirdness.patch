@@ -1,6 +1,8 @@
 # 1bs-patch-weirdness.patch
 .. investigation
 
+1. this code is old I am realising so I need to make just the 64bit version work with whatever hacks he used... in last vst2.
+
 ### LICENSE
 due to the author being truly legendary I am only looking at why one specific plugin doesnt load properly now.
 therefore its just a patch when I get this to build since I don't seem to be able to get 2017 now...
