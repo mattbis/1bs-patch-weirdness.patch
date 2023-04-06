@@ -1,6 +1,6 @@
 # 1leg-scene-weirdness.patch
 .. investigation
-- I really love this plugin - it must not change it just has some combinations and memory issue i think with floats on complexity gain.
+- I really love this plugin - and family - it(they) must not change it just has some combinations and memory issue i think with floats on complexity gain.
 - two I notice some curious limits.. and wonder about this issue.. ( ie the output / active etc ) 
 - communative equations might happen somewhere to cause the bug
 1. its most likely on restore state with above
@@ -9,3 +9,5 @@
 2. omg host editor is too annoting: Editing xml. Considering paying for the lion is mayve gonna happen
 ### if it works to stop load corruption or i figure out some other reason that is it .. just one line if necessary
 1. will you host a binary release: no...
+## reasons
+1. you can crash hosts on a few of them - its likely two issues.. etc
