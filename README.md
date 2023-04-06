@@ -9,7 +9,7 @@
 1. i notice the code is dirty as hell though since I think i can make it stable.. 
 2. omg host editor is too annoting: Editing xml. Considering paying for the lion is mayve gonna happen
 ### if it works to stop load corruption or i figure out some other reason that is it .. just one line if necessary
-1. will you host a binary release: no...
+1. will you host a binary release: no... ( its not my project. I am only patching it )
 ## reasons
 1. you can crash hosts on a few of them - its likely two issues.. etc
 ### work
