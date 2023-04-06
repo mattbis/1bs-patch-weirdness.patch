@@ -9,7 +9,7 @@ just effects drums.. and ive no idea if this will work.
 ### UPDATES - POSSIBLE
 a. obviously this code is amazing and legendary - it just has some float overruns in recent host versions i think... its odd but can cause hosts crash so I am figuring it out if i can do it ...
 1. i've noticed the default values cause giant floats.. I think this is the problem and this is the only thing this patch does; I think.
-  i. so min is offset slightly to avoid confusion and max also this (should i hope solve the problem)
+  i. so ( default ) min is offset slightly to avoid confusion and max also this (should i hope solve the problem)
   ii. ive noticed this same problem 
   
 2. Omg a certain vendors tooling chain is amazing and annoying at once.
