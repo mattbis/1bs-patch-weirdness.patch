@@ -12,3 +12,5 @@
 1. will you host a binary release: no...
 ## reasons
 1. you can crash hosts on a few of them - its likely two issues.. etc
+### work
+1. upgrade to 2019
