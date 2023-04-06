@@ -9,7 +9,8 @@ just effects drums.. and ive no idea if this will work.
 - the code is raw so its a bit tricky for me to get workign since I only just tried it the first time. I think we need to fix the headers, and try to make a new project file. How can you project management be this bad? Or im sure I need professional. All I think is why doesnt it feedback properly what is happening.. and say hay pay for this, or edit this.. yourself.. dealio
 
 ### UPDATES - POSSIBLE
-a. obviously this code is amazing and legendary - it just has some float overruns in recent host versions i think... its odd but can cause hosts crash so I am figuring it out if i can do it ...
+1. update to sdk 3 since I dont seem to get 2017 anymore annoying!
+a. obviously this code is amazing and legendary - it just has some float underruns/overruns ( and lack of defaults ) in recent host versions i think... its odd but can cause hosts crash so I am figuring it out if i can do it ...
 1. i've noticed the default values cause giant floats.. I think this is the problem and this is the only thing this patch does; I think.
   i. so ( default ) min is offset slightly to avoid confusion and max also this (should i hope solve the problem)
     - __so this means that the default values are at the absolute of a float 32 which means the restore state can bork__ if i a mright... 
