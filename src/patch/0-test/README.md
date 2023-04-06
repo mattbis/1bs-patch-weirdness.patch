@@ -5,3 +5,6 @@
 
 ### LICENSE
 no license.
+
+## goal
+1. make it just about work as best we can.
