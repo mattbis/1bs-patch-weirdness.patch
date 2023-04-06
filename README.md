@@ -1,5 +1,5 @@
 # weirdness.patch
-.. investigation ( for 1 ns) 
+.. investigation ( for 1 nd) 
 - I really love this plugin - and family - it(they) must not change it just has some combinations and memory issue i think with floats on complexity logarithm ( **ie the algorithms don't have sensbible boundaries to stop the over cpu**: we can check out some giants to see why they dont have this since is the same 2 tech .. .if only I could get 2 and 2017 working.
   - it could be callbacks... etc I dont see them since this is much older and very optimal code.
 - two I notice some curious limits.. and wonder about this issue.. ( ie the output / active etc ) 
