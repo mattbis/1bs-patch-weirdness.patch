@@ -20,4 +20,4 @@
 6. try to make a template for each plugin to upgrade in automated manner `res/plugin` `res/plugin/restructure/base` etc
 7. try to figure out if state or state is main problem for x, y host
 ## not testing
-1. x32 for the moment... only x64
+1. x32 for the moment... only x64, only windows
