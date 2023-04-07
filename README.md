@@ -16,3 +16,4 @@
 4. try to fix why gui change can use gain/complexity O() crash `src/patch`
 5. try to fix limit for gen midi drums `src/patch` Im not sure the reason for this ... 
   i. refactor code to use less cpu if this was the reason back then I notice `/3` for concurrent
+6. try to make a template for each plugin to upgrade in automated manner `res/plugin` `res/plugin/restructure/base` etc
