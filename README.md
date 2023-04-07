@@ -9,6 +9,7 @@
 1. will you host a binary release: no... ( its not my project. I am only patching it )
 ## reasons
 1. you can crash hosts on a few of them - its likely two issues.. etc. It seems maybe todo with bursts when i noticed it and allocation therefore ( guess ) 
+2. it could be the host I am stuck with at the moment.
 ### work
 1. try upgrade to 2019 `res/ide`
 2. try fix defaults `src/patch`
