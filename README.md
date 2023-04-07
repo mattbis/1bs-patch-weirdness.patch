@@ -17,3 +17,5 @@
 5. try to fix limit for gen midi drums `src/patch` Im not sure the reason for this ... 
   i. refactor code to use less cpu if this was the reason back then I notice `/3` for concurrent
 6. try to make a template for each plugin to upgrade in automated manner `res/plugin` `res/plugin/restructure/base` etc
+## not testing
+1. x32 for the moment... only x64
