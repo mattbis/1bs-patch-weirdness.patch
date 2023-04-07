@@ -1,5 +1,5 @@
 # weirdness.patch
-.. investigation ( for 1 nd) 
+.. investigation ( for 1 nd) (scene)
 - this plugin is really raw.. the source is the very minimum and for some reason changing targets is a pain in vs
 - I really love this plugin - and family
 1. will you host a binary release: no... ( its not my project. I am only patching it )
