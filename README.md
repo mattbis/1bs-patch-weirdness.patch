@@ -3,7 +3,7 @@
 - this plugin is really raw.. the source is the very minimum and for some reason changing targets is a pain in vs
 - I really love this plugin - and family
 1. will you host a binary release: no... ( its not my project. I am only patching it )
-### going to be quite the story since I dont really know cpp to this level yet..
+### going to be quite the story since I dont really know cpp/sdk and host knowledge to this level yet..
 1. the host can confuse you and this means its tricky to realise what it needs to fix it; ( for example dealloc somewhere ) or return state ()
 2. omg host editor is too annoting: Editing xml. Considering paying for the lion is mayve gonna happen
 ## reasons
