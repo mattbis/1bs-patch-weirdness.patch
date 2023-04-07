@@ -6,3 +6,6 @@
 ## investigation
 - see graveyard if my first attempts fail. 
 - 1. i really think its likely its old and sdk upgrade... 
+
+
+1. what is teh reason for 3f/ over that is weird.. 
