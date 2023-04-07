@@ -12,7 +12,7 @@
 ### work
 1. try upgrade to 2019 `res/ide`
 2. try fix defaults `src/patch`
-3. try fix max/min  `src/patch`
+3. try fix max/min  `src/patch` clamp by logic i need to read from other oss authors
 4. try to fix why gui change can use gain/complexity O() crash `src/patch`
 5. try to fix limit for gen midi drums `src/patch` Im not sure the reason for this ... 
   i. refactor code to use less cpu if this was the reason back then I notice `/3` for concurrent
