@@ -10,6 +10,7 @@
 ## reasons
 1. you can crash hosts on a few of them - its likely two issues.. etc. It seems maybe todo with bursts when i noticed it and allocation therefore ( guess ) 
 2. it could be the host I am stuck with at the moment.
+3. id rather it just works regardless of any stupid options.
 ### work
 1. try upgrade to 2019 `res/ide`
 2. try fix defaults `src/patch`
