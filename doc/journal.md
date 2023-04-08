@@ -9,3 +9,4 @@
 
 
 1. what is teh reason for 3f/ over that is weird.. 
+2. trade between latency and buffers and typer of buffer algor used etc.. hmmm
