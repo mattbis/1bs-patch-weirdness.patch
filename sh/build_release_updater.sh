@@ -3,6 +3,8 @@ rm -fRv var/b
 mkdir -pv var/b/{b,r}
 
 # call make_copy_sources
+# call make_a_patch
+# call check_sdk
 
 # defer to make, whatever... 
 
