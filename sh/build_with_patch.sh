@@ -1,6 +1,6 @@
 mkdir -pv var/b
 rm -fRv var/b
-mkdir -pv var/b/{src,build,release}
+mkdir -pv var/b/{src,sdk,build,release}
 
 # copy orig 
 # apply diff to orig
