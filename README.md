@@ -12,7 +12,7 @@
 2. it could be the host I am stuck with at the moment.
 3. id rather it just works regardless of any stupid options.
 ### work
-1. try upgrade to 2019 `res/ide`
+1. try upgrade to 2019 `res/ide` / somehow i dont have or get 2017 anymore hmmm
 2. try fix defaults `src/patch`
 3. try fix max/min  `src/patch` clamp by logic i need to read from other oss authors
 4. try to fix why gui change can use gain/complexity O() crash `src/patch`
