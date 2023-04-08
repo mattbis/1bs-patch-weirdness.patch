@@ -1,0 +1,33 @@
+# .editorconfig
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 4
+
+# C++ specific settings
+[*.cpp, *.h]
+indent_size = 4
+max_line_length = 120
+
+# Windows related files
+[*.def, *.sln, *.vcxproj, *.user]
+indent_style = tab
+tab_width = 4
+
+# XSL and HTML files
+[*.xsl, *.html, *.htm]
+indent_size = 2
+
+# Shell scripts
+[*.sh]
+indent_size = 2
+end_of_line = lf
+
+# Markdown files
+[*.md]
+trim_trailing_whitespace = false
