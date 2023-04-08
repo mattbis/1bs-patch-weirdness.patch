@@ -1,4 +1,4 @@
-mkdir -pv var/p
+mkdir -pv var/b
 rm -fRv var/b
 mkdir -pv var/b/{src,build,release}
 
