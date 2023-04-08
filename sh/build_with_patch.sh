@@ -1,6 +1,6 @@
-mkdir var/src
-mkdir var/build
-mkdir var/release
+mkdir -pv var/p
+rm -fRv var/b
+mkdir -pv var/b/{src,build,release}
 
 # copy orig 
 # apply diff to orig
