@@ -1,6 +1,7 @@
 # weirdness.patch
 .. investigation ( for 1 nd) (scene)
 - this plugin is really raw.. the source is the very minimum and for some reason changing targets is a pain in vs ( i literally cannot find how you can do this .. < insert noises > ) you have to edit xml ... hmmm
+- trade between latency / buffers...
 - I really love this plugin - and family
 1. will you host a binary release: no... ( its not my project. I am only patching it )
 ### going to be quite the story since I dont really know cpp/sdk and host knowledge to this level yet..
