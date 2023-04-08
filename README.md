@@ -1,12 +1,12 @@
 # weirdness.patch
 .. investigation ( for 1 nd) (scene)
-- this plugin is really raw.. the source is the very minimum and for some reason changing targets is a pain in vs ( i literally cannot find how you can do this .. < insert noises > ) you have to edit xml ... hmmm
-- trade between latency / buffers...
 - I really love this plugin - and family
 1. will you host a binary release: no... ( its not my project. I am only patching it )
-### going to be quite the story since I dont really know cpp/sdk and host knowledge to this level yet..
+### updates
+- going to be quite the story since I dont really know cpp/sdk and host knowledge to this level yet..
 1. the host can confuse you and this means its tricky to realise what it needs to fix it; ( for example dealloc somewhere ) or return state ()
 2. see `doc/graveyard/ref` for how I will try to fix it; regardless since most of it is fine... it just seems to be a few things.
+3. trade between latency / buffers.. I begin to understand some stuff about why it is that way.
 ## reasons
 1. you can crash hosts on a few of them - its likely two issues.. etc. It seems maybe todo with bursts when i noticed it and allocation therefore ( guess ) 
 2. it could be the host I am stuck with at the moment.
