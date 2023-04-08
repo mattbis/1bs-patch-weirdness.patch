@@ -14,9 +14,8 @@ indent_size = 4
 indent_size = 4
 max_line_length = 120
 
-# Windows related files
+# VS related
 [*.def, *.sln, *.vcxproj, *.user]
-indent_style = tab
 tab_width = 4
 
 # XSL and HTML files
