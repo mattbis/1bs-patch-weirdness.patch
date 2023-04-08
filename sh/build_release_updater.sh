@@ -2,10 +2,9 @@ mkdir -pv var/b
 rm -fRv var/b
 mkdir -pv var/b/{b,r}
 
-# copy orig 
-# apply diff to orig
+# call make_copy_sources
 
-# in the build files probably
+# defer to make, whatever... 
 
 # transform teh srouce somehow
 # set env vars for new structure
