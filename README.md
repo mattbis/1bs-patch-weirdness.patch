@@ -2,6 +2,8 @@
 .. investigation ( for 1 nd) (scene)
 - I really love this plugin - and family
 1. will you host a binary release: no... ( its not my project. I am only patching the plugins I notice have issue ( for me )  - most are fine - just this one at first )
+### mitigations
+- i've taken to a sampling method instead.. other various params layers and cycles.. since this is gonna take a bit of work... ( its however a great start point )
 ### updates
 - going to be quite the story since I dont really know cpp/sdk and host knowledge to this level yet..
 1. the host can confuse you and this means its tricky to realise what it needs to fix it; ( for example dealloc somewhere ) or return state ()
@@ -11,6 +13,7 @@
 1. you can crash hosts on a few of them - its likely two issues.. etc. It seems maybe todo with bursts when i noticed it and allocation therefore ( guess ) 
 2. it could be the host I am stuck with at the moment.
 3. id rather it just works regardless of any stupid options.
+4. quite a few get elected to fail which is very strange since they are 64bit, simple, and i cant see any option mitigation..
 ### work
 1. try upgrade to 2019 `res/ide` / somehow i dont have or get 2017 anymore hmmm
 2. try fix defaults `src/patch`
