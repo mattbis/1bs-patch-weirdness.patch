@@ -16,6 +16,8 @@
 2. it could be the host I am stuck with at the moment.
 3. id rather it just works regardless of any stupid options.
 4. quite a few get elected to fail which is very strange since they are 64bit, simple, and i cant see any option mitigation..
+### work.0
+1. try missing default stuff for modern min spec in host.
 ### work
 1. try upgrade to 2019 `res/ide` / somehow i dont have or get 2017 anymore hmmm
 2. try fix defaults `src/patch`
@@ -26,7 +28,6 @@
 6. try to make a template for each plugin to upgrade in automated manner `res/plugin` `res/plugin/restructure/base` etc
 7. try to figure out if state or state is main problem for x, y host
   i. it seems apparent at least 3 suffer from this in current host+os+env+project config.. and this is strange since others works fine. `src/patch`
-8. try following from `7` or before `malloc/fralloc/pralloc` i noticed this in some insane cool optimisations for a game engine that is notorious and an extender it gets me thinking this how to fix it possibly..  ( that or its something to do with `state.init()` `state.restore()` etc + saturation.
 ## testing ( for the moment -- just my main one ) 
 1. not x32 for the moment... only x64, only windows
 2. only one host.. 
