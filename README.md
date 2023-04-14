@@ -9,6 +9,8 @@
 1. the host can confuse you and this means its tricky to realise what it needs to fix it; ( for example dealloc somewhere ) or return state ()
 2. see `doc/graveyard/ref` for how I will try to fix it; regardless since most of it is fine... it just seems to be a few things.
 3. trade between latency / buffers.. I begin to understand some stuff about why it is that way.
+## circumstances
+1. saturated runtime... 
 ## reasons
 1. you can crash hosts on a few of them - its likely two issues.. etc. It seems maybe todo with bursts when i noticed it and allocation therefore ( guess ) 
 2. it could be the host I am stuck with at the moment.
@@ -24,7 +26,7 @@
 6. try to make a template for each plugin to upgrade in automated manner `res/plugin` `res/plugin/restructure/base` etc
 7. try to figure out if state or state is main problem for x, y host
   i. it seems apparent at least 3 suffer from this in current host+os+env+project config.. and this is strange since others works fine. `src/patch`
-8. try following from `7` or before malloc/fralloc/pralloc
+8. try following from `7` or before `malloc/fralloc/pralloc` i noticed this in some insane cool optimisations for a game engine that is notorious and an extender it gets me thinking this how to fix it possibly..  ( that or its something to do with `state.init()` `state.restore()` etc + saturation.
 ## testing ( for the moment -- just my main one ) 
 1. not x32 for the moment... only x64, only windows
 2. only one host.. 
