@@ -1,7 +1,10 @@
 %%?win64 *
+%%1 root%path,src%path
 cmake = cmake
 make = make
 gnu-utils = gnu-utils
 vs2019 = vs2019
 vs2019-build = vs2019-build # monikier for installer list
 gitbash = gitbash
+sdk_primitives = .
+sdk[%version 1,2]%%[root][src][%version] = %%:raw
