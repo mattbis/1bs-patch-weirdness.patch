@@ -1,4 +1,6 @@
 # weirdness.patch
+## you can also use this as a rough structure to patch some kinda project in this vein...
+
 .. investigation ( for 1 nd) (scene)
 - I really love this plugin - and family
 1. will you host a binary release: no... ( its not my project. I am only patching the plugins I notice have issue ( for me )  - most are fine - just this one at first )
