@@ -3,5 +3,5 @@ cmake = cmake
 make = make
 gnu = gnu
 vs2019 = vs2019
-vs2019-build = vs2019-build
+vs2019-build = vs2019-build # monikier for installer list
 gitbash = gitbash
