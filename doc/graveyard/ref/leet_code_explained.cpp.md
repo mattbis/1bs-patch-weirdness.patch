@@ -6,3 +6,7 @@
 5. is a kinda running journal of what i already know but am learning since you can do stuff i notice in a completely different project with unrolling alloc etc in lopps and all that stuff... 
 
 6. from our previous projects I came to one conclusion the fastest thing is one function with everything local to it .. that you build etc.. 
+
+### pitfalls
+
+1. this code is all this.. however, it seems it can crash the host on a complexity O situation ( hmmmm - this is odd , this is likely the float over run .. etc )
