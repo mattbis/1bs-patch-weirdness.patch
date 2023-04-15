@@ -1,5 +1,6 @@
 %%?win64 *
 %%1 root%path,src%path
+%%:anotate int,str
 cmake = cmake
 make = make
 gnu-utils = gnu-utils
