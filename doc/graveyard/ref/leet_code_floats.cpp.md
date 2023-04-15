@@ -1,1 +1,3 @@
+1. using floats in ref to recent hosts...
 
+how the hell is this happening where 65% are fine in this scenario but the others go weird. 
